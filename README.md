@@ -1,3 +1,8 @@
+<h1>Thêm xóa sửa bài post sử dụng RTK query </h1>
+
+![rtk](https://github.com/xuanrin1412/Learn-RTK-query/assets/114205729/a3b4a0c6-627f-4a21-97d1-b19d836345ff)
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
